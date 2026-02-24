@@ -1,3 +1,3 @@
-from class_piece import Piece
+from .class_piece import Piece
 
 __all__ = ['Piece']
